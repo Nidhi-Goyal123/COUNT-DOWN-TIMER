@@ -1,0 +1,36 @@
+#hi{
+    text-align: center;
+    margin-top: 30px;
+}
+#para{
+    text-align: center;
+    font-size: larger;
+
+}
+#time{
+    text-align: center;
+    border-color: black;
+}
+.to{
+    text-align: center;
+    margin-top: 10%;
+}
+.count{
+    text-align: center;
+    margin-top: 30px;
+}
+.me{
+    text-align: center;
+    margin: 45px;
+    font-size: larger;
+}
+#mit{
+
+    display:inline;
+}
+#hit{
+    display:inline;
+}
+#kick{
+    display:inline;
+}
